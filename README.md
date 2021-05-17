@@ -11,6 +11,5 @@
 # Made With ❤️!
 
 <p align="center"> 
-  Visitors :<br>
   <img src="https://github.com/Wandrys-dev/FloweringTree/harry-potter.gif" />
 </p>
