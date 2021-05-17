@@ -12,5 +12,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/Wandrys-dev/FloweringTree/edit/main/harry-potter.gif">
+  <img src="https://github.com/Wandrys-dev/FloweringTree/harry-potter.gif">
 </p>
