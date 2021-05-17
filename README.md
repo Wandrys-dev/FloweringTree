@@ -2,7 +2,7 @@
 #Warm little tree drawn in Python and Turtle🌲
 
 # Requirements
-- Python 2
+- Python
 - Turtle
 
 # Here are the results graphs
